@@ -1,0 +1,14 @@
+{
+  "name": "simple-blog-template-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
